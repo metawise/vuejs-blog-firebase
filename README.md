@@ -1,4 +1,4 @@
-# blog
+# Blog App with Firebase DB
 
 > A Vue.js project
 
